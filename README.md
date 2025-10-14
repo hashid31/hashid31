@@ -2,11 +2,16 @@
 <h3 align="center">An Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashid31&label=Profile%20views&color=0e75b6&style=flat" alt="hashid31" />
+  I have strong foundational knowledge in programming, algorithms, and data structures.
+I'm currently pursuing Bachelor of Technology in Information Technology with hands-on experience in developing software
+solutions using Python, Java, and web technologies. I'm passionate about problem-solving, machine learning, and software
+engineering principles.
 </p>
 
 ## 🌱 Constantly Learning
-
+<p>
+  Learning is something I’m genuinely passionate about. Whether it’s picking up a new programming language, exploring a fresh tech stack, or diving into something completely new, I’m always looking for ways to grow and improve. I believe that you can never know it all, so there’s always room to learn, adapt, and challenge yourself. It’s not just about gaining new skills; it’s about pushing the boundaries of what I can do and finding new ways to solve problems.
+</p>
 ---
 
 ## 🛠 Languages and Tools
